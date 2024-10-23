@@ -7,14 +7,14 @@ Data Sources
 
 Tools Used
 
-DATA CLEANING AND PREPARATION
+### DATA CLEANING AND PREPARATION
 
-This Data Analysis project aim to generate insight into the sales performance of Pinkasonn Integrated Service Limited over the past years, by analysing the various parameters in the data recieved. I seek to gather enough insight to make reasonale decisions which then enable me to tell compelling stories around our data from the insight gotten and to know the best performance from our data
+This Data Analysis project aim to generate insight into the sales performance of Pinkasonn Integrated Service Limited over the past years, by analysing the various parameters in the data recieved. we seek to gather enough insight to make reasonale decisions which then enable us to tell compelling stories around our data from the insight gotten and to know the best performance from our data
 
-DATA SOURCES
+### DATA SOURCES
 the primary source of data used here is Data Sales.csv and this is an open source Data than can freely download from an open source online such as Kaggle or FRED or other data repository site
 
-TOOLS USED
+### TOOLS USED
 Microsoft Excel Download Here
 
 for data cleaning,
